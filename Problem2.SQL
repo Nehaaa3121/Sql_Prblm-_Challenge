@@ -3,4 +3,4 @@ Select * from Categories
 …will return 4 columns. We only want to see two columns,
 CategoryName and Descrip*/
 
-SELECT CategoryName , Descrip from Shippers;
+SELECT CategoryName , Descrip from Categories;
