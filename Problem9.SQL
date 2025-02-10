@@ -12,4 +12,4 @@ get too convoluted. Use the In statemenT*/
 
 Select  OrderID, CustomerID, Shipcountry
 from orders 
-where shipcountry in('Brazil', 'Mexico','Argentina' 'Venezuela');
+where shipcountry in('Brazil', 'Mexico','Argentina', 'Venezuela');
